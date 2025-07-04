@@ -21,6 +21,8 @@ Skills: REACT / JS / HTML / CSS/PHP/JS
 | C++ Intermediate | Coddy.tech | [View](https://coddy.tech/certifications/n7L4Dm-awp3zH) |
 | PHP Introducation | Coddy.tech | [View](https://coddy.tech/certifications/2dl7bI-jNiqHH) |
 | Python Introducation | Coddy.tech | [View](https://coddy.tech/certifications/9LygUV-dMHj5s) |
+| SQL for Beginners | Coddy.tech | [View](https://coddy.tech/certifications/n7L4Dm-qrrEEX) |
+| Java Fundamentals | Coddy.tech | [View](https://coddy.tech/certifications/6wOtnV-cpiHhr) |
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/firojhosen-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/firojhosen-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/firojalwysnow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/firojhosen-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/firojhosen-dev)  
