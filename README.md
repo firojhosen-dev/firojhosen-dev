@@ -5,7 +5,7 @@
 
 Hi, I’m Firoj Hosen a passionate web developer with a strong focus on WordPress, JavaScript, and React. I thrive on crafting high-performing websites, optimizing user experiences, and teaching others to do the same. Love to Learn new Skill. now Learning JavaScript. Full and fresh hand code is my Power. Client satisfaction is my first Priority.
 
-Skills: REACT / JS / HTML / CSS/PHP/JS
+Skills: HTML / CSS/ C++ / PHP / Python / SQL / JAVA / REACT / JS
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning JavaScript 
