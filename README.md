@@ -11,7 +11,7 @@ Skills: REACT / JS / HTML / CSS/PHP/JS
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Developer 
-- 📫 How to reach me: firojdeveloper@gmail.com
+- 📫 How to reach me: firojhosendev@gmail.com
 
 # My-Certificate 🏅📜
 
