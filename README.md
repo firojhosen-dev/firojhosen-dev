@@ -26,6 +26,7 @@ Skills: HTML / CSS/ C++ / PHP / Python / SQL / JAVA / REACT / JS
 | SQL | Coddy.tech | [View](https://coddy.tech/certifications/n7L4Dm-qrrEEX) |
 | Java | Coddy.tech | [View](https://coddy.tech/certifications/6wOtnV-cpiHhr) |
 | Dart | Coddy.tech | [View](https://coddy.tech/certifications/9LygUV-T3i0w7) |
+| R | Coddy.tech | [View](https://coddy.tech/certifications/2dl7bI-P1OTIy) |
 
 
 
