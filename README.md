@@ -19,7 +19,7 @@ Skills: HTML / CSS/ C++ / PHP / Python / SQL / JAVA / REACT / JS
 |-----|--------|-------|------------------|--------|
 |01 | HTML | [View](https;//coddy.tech) | [View](https://coddy.tech/certifications/2dl7bI-cTiZhY) | ![HTML](https://img.icons8.com/color/24/000000/html-5--v1.png) |
 | 02 | CSS | [View](https;//coddy.tech) | [View](https://coddy.tech/certifications/6wOtnV-9yHGYz) | ![CSS](https://img.icons8.com/color/24/000000/css3.png) |
-| 03 | JS | [View](https;//coddy.tech) | [View](https://coddy.tech/certifications/6wOtnV-ufbUTW) | ![JavaScript](https://img.icons8.com/color/24/000000/javascript--v1.png) |
+| 03 | JS | [View](https://www.freecodecamp.org) | [View](https://www.freecodecamp.org/certification/firojhosen-dev/javascript-algorithms-and-data-structures) | ![JavaScript](https://img.icons8.com/color/24/000000/javascript--v1.png) |
 | 04 | C++ | [View](https;//coddy.tech) | [View](https://coddy.tech/certifications/n7L4Dm-awp3zH) | ![C++](https://img.icons8.com/color/24/000000/c-plus-plus-logo.png) |
 | 05 | C# | [View](https;//coddy.tech) | [View](https://coddy.tech/certifications/sem6vz-oaFZ7V) | ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png) |
 | 06 | C | [View](https;//coddy.tech) | [View](https://coddy.tech/certifications/9LygUV-pmAnH2) | ![C](https://img.icons8.com/fluency/24/000000/c-programming.png) |
