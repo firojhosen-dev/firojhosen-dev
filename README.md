@@ -42,30 +42,39 @@ Vs code, phpstorm
 Figma (UI/UX Design Preview)
 
 ### My project experience
-**1. User Authentication System**
-*Challenge:* Keep user data safe and ensure proper validation.
-*Solution:* I created a custom authentication with PHP & MySQL, where the password was washed with BCRPT.
-*Impact:* Secure login and registration system has been created, which is also reusable in other projects.
+**[1. User Authentication System](https://github.com/firojhosen-dev/User-Authentication-System.git)**<br>
+- *Challenge:* Keep user data safe and ensure proper validation.<br>
+- *Solution:* I created a custom authentication with PHP & MySQL, where the password was washed with BCRPT.<br>
+- *Impact:* Secure login and registration system has been created, which is also reusable in other projects.<br>
 
-**2. Chat Application**
-*Challenge:* Real-time data update.
-*Solution:* I made real-time chat using AJAX with PHP and JavaScript. Later I integrated websoket with Python.
-*Impact:* Tim has been a great project for communication and practice.
+**2. Chat Application**<br>
+- *Challenge:* Real-time data update.<br>
+- *Solution:* I made real-time chat using AJAX with PHP and JavaScript. Later I integrated websoket with Python.<br>
+- *Impact:* Tim has been a great project for communication and practice.<br>
 
-**3. E-Commerce website**
-*Challenge:* Product Management, Order System, User Authority.
-*Solution:* I created the entire front end and backnd, with the cart system and the payment gateway.
-*Impact:* A practical solution of the real e-commerce model stands.
+**3. E-Commerce website**<br>
+- *Challenge:* Product Management, Order System, User Authority.<br>
+- *Solution:* I created the entire front end and backnd, with the cart system and the payment gateway.<br>
+- *Impact:* A practical solution of the real e-commerce model stands.<br>
 
-4. Screen Recording Application
-Challenge: Recording your job and preserving project demo.
-Solution: I made a custom screen recorder with Python.
-Impact: Now I can easily record my job and use it as evidence or as a tutorial.
+**4. Screen Recording Application**<br>
+- *Challenge:* Recording your job and preserving project demo.<br>
+- *Solution:* I made a custom screen recorder with Python.<br>
+- *Impact:* Now I can easily record my job and use it as evidence or as a tutorial.<br>
 
-**5. Social Media website**
-*Challenge:* Profile, post, comment, Like System implement.
-*Solution:* Created a basic social media platform with PHP, MySQL and Javascript.
-*Impact:* I have had a great experience on social media core features.
+**5. Social Media website**<br>
+- *Challenge:* Profile, post, comment, Like System implement.<br>
+- *Solution:* Created a basic social media platform with PHP, MySQL and Javascript.<br>
+- *Impact:* I have had a great experience on social media core features.<br>
+
+**6. 🏥 [Hospital Management System (HMS)](https://github.com/firojhosen-dev/Hospital-Management-System)**<br>
+The Hospital Management System *(HMS)* is a complete and professional web-based solution designed to simplify the day-to-day management of hospitals, clinics, and healthcare organizations. This project automates and digitizes all hospital processes including Patient Registration, Doctor Management, Appointments, Pharmacy, Billing, Reporting, and Messaging.
+
+It is a multi-role system that supports:
+- 👨‍💼 Admin (full control & management)
+- 👨‍⚕️ Doctors (patient care & communication)
+- 🧑 Patients (appointments & health records)
+  
 
 ### The visit to my work
 I believe that the biggest feature of a good developer is the ability to solve the problem. Coding can be learned, but if you have the mentality of finding a solution by going deep into the problem, one can become a real developer.
