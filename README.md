@@ -4,6 +4,93 @@
 ### Web Developer
 ## Identity
 
+<!-- Service Slider -->
+<div class="service-slider">
+  <div class="service-track">
+
+    <div class="service-item active">
+      <h3>E-commerce Development</h3>
+      <p>Custom scalable online store solutions</p>
+    </div>
+
+    <div class="service-item">
+      <h3>CRM & Dashboard</h3>
+      <p>Business management & analytics systems</p>
+    </div>
+
+    <div class="service-item">
+      <h3>Tender Management System</h3>
+      <p>Automated tender workflow platform</p>
+    </div>
+
+    <div class="service-item">
+      <h3>API & Backend Solutions</h3>
+      <p>Secure and optimized REST APIs</p>
+    </div>
+
+  </div>
+</div>
+
+<style>
+.service-slider{
+  max-width:420px;
+  margin:20px auto;
+  overflow:hidden;
+  position:relative;
+  border-radius:12px;
+  background:#ffffff;
+  box-shadow:0 10px 30px rgba(0,0,0,.08);
+}
+
+.service-track{
+  display:flex;
+  transition:transform .8s cubic-bezier(.4,0,.2,1);
+}
+
+.service-item{
+  min-width:100%;
+  padding:28px 26px;
+  text-align:center;
+  opacity:0;
+  transform:scale(.9) translateY(10px);
+  transition:all .6s ease;
+}
+
+.service-item.active{
+  opacity:1;
+  transform:scale(1) translateY(0);
+}
+
+.service-item h3{
+  margin-bottom:8px;
+  font-size:20px;
+}
+
+.service-item p{
+  color:#666;
+  font-size:14px;
+}
+</style>
+
+<script>
+const items = document.querySelectorAll(".service-item");
+const track = document.querySelector(".service-track");
+
+let index = 0;
+
+function slideService(){
+  items.forEach(i => i.classList.remove("active"));
+
+  index = (index + 1) % items.length;
+
+  track.style.transform = `translateX(-${index * 100}%)`;
+  items[index].classList.add("active");
+}
+
+items[0].classList.add("active");
+setInterval(slideService, 3000);
+</script>
+
 I am a Full Stack Web Developer, whose journey began with a deep love for technology. To me web development is not just a job - it's a kind of art and a problem to solve the problem. I learn something new every day, create something new, and try to make the world a little easier through my code.
 
 I was interested in technology since childhood. In the beginning, I started learning how to create curiously the website. Then gradually I am working as a professional web developer to learn CSS, Javascript, PHP, Mysql, etc.
